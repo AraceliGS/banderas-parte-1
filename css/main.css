@@ -13,7 +13,6 @@ span {
   padding: 10px;
   margin: 10px;
 
-
 }
 
 /* Utilizo un selector de clase, ya que en mi documento html mis elementos span poseen atributos de clase con los valores mustard y black con el objetivo de ser más específica. En ambos utilizo la propiedad display, a la cual le asigno como valor block, ya que span es un elemento inline(en línea), por lo que mis 3 elementos span estaban en una sola línea y ocupana lo que consideraban necesario, pero me pedían que cada uno estuviera en una sola línea y ocupara el espacio disponible(aunque cumpliendo ciertos requisitos.) algo propio de los elementos a nivel de bloque. Por último, para los colores estoy utilizando RGB hexadecimal, ya que la mayoría de sitios web en la actualidad lo utiliza.*/
